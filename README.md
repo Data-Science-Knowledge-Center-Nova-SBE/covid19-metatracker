@@ -71,8 +71,8 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 
 * **Dashboard Global de Propagação do Covid19** [[link](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)]
 * **Dashboard** - Ponto de Situação em Portugal (Ministério da Saúde) [[link](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/)]
-* **** https://www.anmsp.pt/covid19
-* **** http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution
+* **Mapa Epidemiológico Portugal** - [[link](https://www.anmsp.pt/covid19)]
+* **Corona Virus Watch** - http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution
 
 #### Fontes de Dados
 
