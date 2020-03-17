@@ -2,25 +2,24 @@
 
 _Spread Knowledge, not the virus._ 
 
-### Sumário
+## Sumário
 
 Na constante procura por mais e melhor informação, optámos por procurar reunir informação fidedigna que permita a todos os voluntários, investigadores, profissionais e curiosos trabalharem. 
 
-### Recursos Oficiais
+## Recursos Oficiais
 
 * **Dashboard** - Ponto de Situação em Portugal (Ministério da Saúde) [[link](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/)]
 * **Boletins** - Relatório de Situação (Direção Geral de Saúde)  [[link](https://covid19.min-saude.pt/relatorio-de-situacao/)]
 
-### Infomativos
+## Informativos
 
-* https://www.endcoronavirus.org/
-* Act Now Or People will die Tomorrow [[link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)]
+* Spread knowledge, not the virus (New England Complex Systems Institute)- [[link](https://www.endcoronavirus.org/)]
 
-### Iniciativas 
+## Iniciativas 
 
 **tech4COVID19** [[link](https://tech4covid19.org/)]
 
-Movimento com +800 pessoas a trabalhar em vários projetos para ajudar a resolver alguns dos problemas causados pela Covid-19.
+Movimento com +1200 pessoas a trabalhar em vários projetos para ajudar a resolver alguns dos problemas causados pela Covid-19.
 
 #### Tecnologia
 
@@ -57,25 +56,26 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 
 * **Covidizer.org** - Fábrica de curadoria, criação e divulgação de conteúdo para lutar a desinformação e fake news
 
-#### Data Science
-* Bayesian Approach https://covid19dashboards.com/
+### Data Science
 
-* Simulation https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+* Bayesian Approach - [[link](https://covid19dashboards.com/)]
+* Corona Simulator - [[link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)]
+* SEIR (Observador) - [[link](https://observador.pt/especiais/a-matematica-que-explica-o-tsunami-europeu-e-portugues/)]
+* SIR modeling (RPubs) - [[link](https://rpubs.com/srijana/110753)]
+* Exponential slopes overestimation (Twitter) [[link](https://twitter.com/drg1985/status/1236661113250623488/photo/1)]
+* Act Now Or People will die Tomorrow (Medium) [[link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)]
 
-* SEIR - https://observador.pt/especiais/a-matematica-que-explica-o-tsunami-europeu-e-portugues/
-* SIR modeling - https://rpubs.com/srijana/110753
-* Overestimation - https://twitter.com/drg1985/status/1236661113250623488/photo/1
 
-
-#### Visualização de dados
+### Visualização de dados
 
 * **Dashboard Global de Propagação do Covid19** [[link](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)]
 * **Dashboard** - Ponto de Situação em Portugal (Ministério da Saúde) [[link](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/)]
 * **Mapa Epidemiológico Portugal** - [[link](https://www.anmsp.pt/covid19)]
-* **Corona Virus Watch** - http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution
+* **Corona Virus Watch** (International Research Center on Artificial Intelligence) - [[link](http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution)]
 
-#### Fontes de Dados
+### Fontes de Dados
 
-* **Dados de Portugal de casos de Covid19 (Data Science for Social Good PT)** [[github](https://github.com/dssg-pt/covid19pt-data)] [[direct link](https://github.com/dssg-pt/covid19pt-data/blob/master/data.csv)]
-* **Dados Globais de casos de Covid19 (John Hopkins CSSE)** [[github](https://github.com/CSSEGISandData/COVID-19)]
-* **Tableau data workbook/source** [[tableau](https://www.tableau.com/covid-19-coronavirus-data-resources)]
+* **Dados de Portugal de casos de Covid19** (Data Science for Social Good PT) - [[github](https://github.com/dssg-pt/covid19pt-data)] [[direct link](https://github.com/dssg-pt/covid19pt-data/blob/master/data.csv)]
+* **Dados Globais de casos de Covid19** (John Hopkins CSSE) - [[github](https://github.com/CSSEGISandData/COVID-19)]
+* **Tableau data workbook/source** (Tableau) - [[link](https://www.tableau.com/covid-19-coronavirus-data-resources)]
+* **Novel Corona Virus 2019 Dataset** (Kaggle) - [[link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508)]
