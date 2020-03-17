@@ -62,8 +62,8 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * Corona Simulator (Washington Post) - [[link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)]
 * SEIR (Observador) - [[link](https://observador.pt/especiais/a-matematica-que-explica-o-tsunami-europeu-e-portugues/)]
 * SIR modeling (RPubs) - [[link](https://rpubs.com/srijana/110753)]
-* Exponential slopes overestimation (Twitter) [[link](https://twitter.com/drg1985/status/1236661113250623488/photo/1)]
-* Act Now Or People will die Tomorrow (Medium) [[link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)]
+* Exponential slopes overestimation (Twitter) - [[link](https://twitter.com/drg1985/status/1236661113250623488/photo/1)]
+* Act Now Or People will die Tomorrow (Medium) - [[link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)]
 
 
 ### Visualização de dados
