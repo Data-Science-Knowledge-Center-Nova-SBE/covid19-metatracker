@@ -58,8 +58,8 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 
 ### Data Science
 
-* Bayesian Approach - [[link](https://covid19dashboards.com/)]
-* Corona Simulator - [[link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)]
+* Bayesian Approach (Hamel Husain, Github) - [[link](https://covid19dashboards.com/)]
+* Corona Simulator (Washington Post) - [[link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)]
 * SEIR (Observador) - [[link](https://observador.pt/especiais/a-matematica-que-explica-o-tsunami-europeu-e-portugues/)]
 * SIR modeling (RPubs) - [[link](https://rpubs.com/srijana/110753)]
 * Exponential slopes overestimation (Twitter) [[link](https://twitter.com/drg1985/status/1236661113250623488/photo/1)]
