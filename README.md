@@ -8,12 +8,23 @@ _Spread Knowledge, not the virus._
 
 Na constante procura por mais e melhor informação, optámos por procurar reunir informação fidedigna que permita a todos os voluntários, investigadores, profissionais e curiosos trabalharem. 
 
+#### Conteúdos
+
+- [Recursos Oficiais](#recursos-oficiais)
+- [Recursos Informativos](#recursos-informativos)
+- [Iniciativas](#iniciativas)
+ - [Tecnologia](#tecnologia)
+ - [Data Science](#data-science)
+ - [Visualização de dados](#visualizao-de-dados)
+- [Fontes de Dados](#fontes-de-dados)
+
+
 ## Recursos Oficiais
 
 * **Dashboard** - Ponto de Situação em Portugal (Ministério da Saúde) [[link](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/)]
 * **Boletins** - Relatório de Situação (Direção Geral de Saúde)  [[link](https://covid19.min-saude.pt/relatorio-de-situacao/)]
 
-## Informativos
+## Recursos Informativos
 
 * Spread knowledge, not the virus (New England Complex Systems Institute)- [[link](https://www.endcoronavirus.org/)]
 
@@ -83,7 +94,7 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * **Corona Virus Watch** (International Research Center on Artificial Intelligence) - [[link](http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution)]
 * **Corona Virus Outbreak Information*** (Worldometers) - [[link]](https://www.worldometers.info/coronavirus/)]
 
-### Fontes de Dados
+## Fontes de Dados
 
 * **Dados de Portugal de casos de Covid19** (Data Science for Social Good PT) - [[github](https://github.com/dssg-pt/covid19pt-data)] [[direct link](https://github.com/dssg-pt/covid19pt-data/blob/master/data.csv)]
 * **Dados Globais de casos de Covid19** (John Hopkins CSSE) - [[github](https://github.com/CSSEGISandData/COVID-19)]
