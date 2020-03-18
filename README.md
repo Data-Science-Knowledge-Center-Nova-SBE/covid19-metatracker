@@ -20,7 +20,9 @@ Na constante procura por mais e melhor informação, optámos por procurar reuni
 ## Iniciativas 
 
 **tech4COVID19** - [[link](https://tech4covid19.org/)]
+
 **OutSystems** - Supporting the community with Free Licensing - [[link](https://www.outsystems.com/Community/COVID-19/)]
+
 **Covid Ideas and Challenges** - [[link](https://www.covid.pt)]
 
 Movimento com +2000 pessoas a trabalhar em vários projetos para ajudar a resolver alguns dos problemas causados pela Covid-19.
@@ -78,6 +80,7 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * **Dashboard - Ponto de Situação em Portugal** (Ministério da Saúde) - [[link](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/)]
 * **Mapa Epidemiológico Portugal** (ANMSP) - [[link](https://www.anmsp.pt/covid19)]
 * **Corona Virus Watch** (International Research Center on Artificial Intelligence) - [[link](http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution)]
+* **Corona Virus Outbreak Information*** (Worldometers) - [[link]](https://www.worldometers.info/coronavirus/)]
 
 ### Fontes de Dados
 
