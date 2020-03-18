@@ -1,5 +1,7 @@
 # COVID19 Meta-tracker
 
+![alt text](media/novasbe-dskc.jpg "NovaSBE - Data Science Knowledge Center")
+
 _Spread Knowledge, not the virus._ 
 
 ## Sumário
