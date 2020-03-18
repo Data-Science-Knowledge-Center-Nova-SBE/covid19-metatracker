@@ -19,11 +19,12 @@ Na constante procura por mais e melhor informação, optámos por procurar reuni
 
 ## Iniciativas 
 
-**tech4COVID19** - [[link](https://tech4covid19.org/)]
 
 **OutSystems** - Supporting the community with Free Licensing - [[link](https://www.outsystems.com/Community/COVID-19/)]
 
 **Covid Ideas and Challenges** - [[link](https://www.covid.pt)]
+
+**tech4COVID19** - [[link](https://tech4covid19.org/)]
 
 Movimento com +2000 pessoas a trabalhar em vários projetos para ajudar a resolver alguns dos problemas causados pela Covid-19.
 
