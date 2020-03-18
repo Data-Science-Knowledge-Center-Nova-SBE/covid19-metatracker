@@ -60,6 +60,8 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 
 ### Data Science
 
+* COVID 19 - Analysis and forecast of number of confirmations in Portugal (Carlos Leite) - [[link](https://github.com/charlesmilk/covid19)]
+* COVID 19 - Exploratory Analysis - Portugal (Filipa Rodrigues do Santos) - [[link](https://colab.research.google.com/drive/1ZxwAt3pQAwV048eMParID_wS6oEYpNPI)]
 * Bayesian Approach (Hamel Husain, Github) - [[link](https://covid19dashboards.com/)]
 * Corona Simulator (Washington Post) - [[link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)]
 * SEIR (Observador) - [[link](https://observador.pt/especiais/a-matematica-que-explica-o-tsunami-europeu-e-portugues/)]
