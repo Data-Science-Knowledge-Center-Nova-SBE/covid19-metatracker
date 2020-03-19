@@ -100,3 +100,6 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * **Dados Globais de casos de Covid19** (John Hopkins CSSE) - [[github](https://github.com/CSSEGISandData/COVID-19)]
 * **Tableau data workbook/source** (Tableau) - [[link](https://www.tableau.com/covid-19-coronavirus-data-resources)]
 * **Novel Corona Virus 2019 Dataset** (Kaggle) - [[link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508)]
+* **COVID-19 Open Research Dataset Challenge (CORD-19)** (Kaggle) - [[link](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)]
+
+
