@@ -84,6 +84,7 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * SIR modeling (RPubs) - [[link](https://rpubs.com/srijana/110753)]
 * Exponential slopes overestimation (Twitter) - [[link](https://twitter.com/drg1985/status/1236661113250623488/photo/1)]
 * Act Now Or People will die Tomorrow (Medium) - [[link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)]
+* COVID19 Scenario Analysis (Neherlab) - [[link](https://neherlab.org/covid19/)]
 
 
 ### Visualização de dados
