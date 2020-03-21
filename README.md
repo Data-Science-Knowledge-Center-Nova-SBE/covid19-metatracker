@@ -85,6 +85,7 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * Exponential slopes overestimation (Twitter) - [[link](https://twitter.com/drg1985/status/1236661113250623488/photo/1)]
 * Act Now Or People will die Tomorrow (Medium) - [[link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)]
 * COVID19 Scenario Analysis (Neherlab) - [[link](https://neherlab.org/covid19/)]
+* COVID 19 Risk Map (Spain, Brazil, Portugal) [[link](https://covid-19-risk.github.io/map/portugal/pt/)]
 
 
 ### Visualização de dados
@@ -93,7 +94,7 @@ Terá disponível um chatbot que consegue despistar casos que precisam de apoio 
 * **Dashboard - Ponto de Situação em Portugal** (Ministério da Saúde) - [[link](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/)]
 * **Mapa Epidemiológico Portugal** (ANMSP) - [[link](https://www.anmsp.pt/covid19)]
 * **Corona Virus Watch** (International Research Center on Artificial Intelligence) - [[link](http://coronaviruswatch.ircai.org/?country=All&dashboard=evolution)]
-* **Corona Virus Outbreak Information*** (Worldometers) - [[link]](https://www.worldometers.info/coronavirus/)]
+* **Corona Virus Outbreak Information** (Worldometers) - [[link]](https://www.worldometers.info/coronavirus/)]
 
 ## Fontes de Dados
 
